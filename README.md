@@ -22,11 +22,6 @@ The AntiBoredom Playlist Web Scraper is a Java-based application designed to aut
 ## Setup and Installation
 1. **Clone the Repository**
 2. **Install Dependencies**
-  a. <dependency>
-  <groupId>org.jsoup</groupId>
-  <artifactId>jsoup</artifactId>
-  <version>1.16.1</version>
-  </dependency>
 3. **Build the Project**
 4. **Run the Application**
 
