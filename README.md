@@ -1,10 +1,10 @@
-## AntiBoredom Playlist Web Scraper Project
+## AntiBoredom Playlist Web Scraper
 
 ## Overview
-The AntiBoredom Playlist Web Scraper is a Java-based application designed to automatically scrape the top music hits from the Billboard Hot 100 chart. This project is perfect for music enthusiasts looking to keep their playlists fresh and updated with the latest popular tracks without manual effort.
+A Java-based application designed to automatically scrape the top music hits from the Billboard Hot 100 chart.
 
 ## Features
-- **Web Scraping**: Automatically scrapes the Billboard Hot 100 webpage to retrieve the latest top music hits.
+- **Web Scraping**: The logic uses Java web scraper API offered by Jsoup to extract all the data of interest from each HTML element.
 - **Playlist Management**: Adds new songs to a playlist, ensuring there are no duplicates and all entries have complete details.
 - **User Interface**: Simple console output that shows the list of songs scraped from the web.
 - **Extensibility**: The project is structured to be easily extendable for additional features such as saving playlists, more detailed song information, or scraping from different sources.
