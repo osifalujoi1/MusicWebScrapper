@@ -10,7 +10,8 @@ A Java-based application designed to automatically scrape top music hits from th
 - **Extensibility**: The project is structured to be easily extendable for additional features such as saving playlists, more detailed song information, or scraping from different sources.
 
 ## DEMO
-![Screenshot 2024-06-07 at 11.42.21 AM.png](..%2F..%2FDesktop%2FScreenshot%202024-06-07%20at%2011.42.21%E2%80%AFAM.png)
+<img width="796" alt="Demo" src="https://github.com/osifalujoi1/AntiBoredomPlaylist/assets/122557631/25e8c6bc-49b7-440d-8576-0f2dbb6addb8">
+
 
 ## Project Structure
 - `Main.java`: Contains the main method and the web scraping logic.
