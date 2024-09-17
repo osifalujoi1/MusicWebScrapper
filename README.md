@@ -1,7 +1,7 @@
 ## AntiBoredom Playlist Web Scraper
 
 ## Overview
-A Java-based application designed to automatically scrape top music hits from three websites and shuffles them together to generate an iconic playlist suggestion for the user.
+A Java application designed to automatically scrape top music hits from three websites, shuffle and sort them to generate a music playlist suggestion for any user.
 
 ## Features
 - **Web Scraping**: The logic uses Java web scraper API offered by Jsoup to extract all the data of interest from each HTML element in Billboard 100, BBC Radio, and Last FM. 
